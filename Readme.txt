@@ -1,5 +1,4 @@
-# ABOUT WEBSITE :
-
+# 💫 About Website:
 Golden Restaurant Website is a responsive web application built for a restaurant business. The project is deployed on Vercel and contains HTML pages, stylesheets, and form components. It demonstrates a complete restaurant website implementation with multiple pages including a main index page and inner pages for additional content.
 
 # Main Function Points :
